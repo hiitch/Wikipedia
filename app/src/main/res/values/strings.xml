@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wikipedia</string>
+    <string name="title">TITLE</string>
+    <string name="label_article">Article</string>
+    <string name="label_sumary">Sumary</string>
+    <string name="example_title">Titre d'exemple</string>
+    <string name="example_sumary">LOPSUM LOPSUM LOPSUM LOPSUM LOPSUM LOPSUM LOPSUM LOPSUM LOPSUM </string>
+</resources>
